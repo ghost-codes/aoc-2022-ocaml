@@ -1,9 +1,17 @@
-; (executable
-;  (public_name day1)
-;  (name day1)
-;  (libraries day1 core base))
+(executable
+ (public_name day1)
+ (name day1)
+ (modules day1)
+ (libraries day1 core base))
 
 (executable
  (public_name day2)
  (name day2)
+ (modules day2)
  (libraries day2 core base))
+
+(executable
+ (public_name day3)
+ (name day3)
+ (modules day3)
+ (libraries day3 core base))

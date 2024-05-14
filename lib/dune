@@ -3,3 +3,6 @@
 
 (library
  (name day2))
+
+(library
+ (name day3))
