@@ -7,4 +7,5 @@ bin: [
   "_build/install/default/bin/day1"
   "_build/install/default/bin/day2"
   "_build/install/default/bin/day3"
+  "_build/install/default/bin/day4"
 ]

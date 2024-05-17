@@ -15,3 +15,9 @@
  (name day3)
  (modules day3)
  (libraries day3 core base))
+
+ (executable
+ (public_name day4)
+ (name day4)
+ (modules day4)
+ (libraries day4 core base))
